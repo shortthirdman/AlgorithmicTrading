@@ -1,0 +1,2 @@
+# AlgorithmicTrading
+Optimizing Algorithmic Trading
